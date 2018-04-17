@@ -1,0 +1,8 @@
+{
+  "name": "session",
+  "app_id": "05eca350",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
